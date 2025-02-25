@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="69.849998mm"
+   height="95.25mm"
+   viewBox="0 0 69.849998 95.25"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="Magic_Basic_Template.svg"
+   inkscape:export-filename="Magic_Starting_Point.png"
+   inkscape:export-xdpi="1000"
+   inkscape:export-ydpi="1000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="112.78353"
+     inkscape:cy="161.39712"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer8" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Template"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9"
+       inkscape:label="artwork"
+       transform="translate(3.0540088,1.644291)">
+      <rect
+         style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:22.7351;stroke-opacity:0.727963"
+         id="artwork_common_size"
+         width="58.419998"
+         height="45.720001"
+         x="2.6610005"
+         y="6.1047659"
+         inkscape:highlight-color="#47ee3b" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:5.61111px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-opacity:0.727963"
+         x="32.913391"
+         y="30.34341"
+         id="10"
+         inkscape:label="art_label"><title
+           id="title9">art_label</title><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:5.61111px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000;fill-opacity:1;stroke-width:20"
+           x="32.913391"
+           y="30.34341"
+           id="tspan8">ARTWORK</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:5.61111px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000;fill-opacity:1;stroke-width:20"
+           x="32.913391"
+           y="35.954521"
+           id="tspan9">(53×45 mm)</tspan></text>
+    </g>
+    <g
+       id="g1"
+       inkscape:label="textbox"
+       transform="translate(2.5400089,1.7134743)">
+      <rect
+         style="fill:#dadada;fill-opacity:1;stroke:none;stroke-width:21.1651;stroke-opacity:0.727963"
+         id="rect12"
+         width="58.419998"
+         height="32.512001"
+         x="3.1749985"
+         y="51.755585" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.27948px;line-height:5.78919px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20.6347;stroke-opacity:0.727963"
+         x="31.929399"
+         y="66.533684"
+         id="text14"
+         inkscape:label="art_label"
+         transform="scale(1.031737,0.96923927)"><title
+           id="title13">art_label</title><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.27948px;line-height:5.78919px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000;fill-opacity:1;stroke-width:20.6347"
+           x="31.929399"
+           y="66.533684"
+           id="tspan13" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.27948px;line-height:5.78919px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000;fill-opacity:1;stroke-width:20.6347"
+           x="31.929399"
+           y="72.322876"
+           id="tspan14">TEXTBOX</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.27948px;line-height:5.78919px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000;fill-opacity:1;stroke-width:20.6347"
+           x="31.929399"
+           y="78.112061"
+           id="tspan15">(53×32.5 mm)</tspan></text>
+    </g>
+    <g
+       id="g3"
+       inkscape:label="types"
+       transform="matrix(1.0354942,0,0,1,2.4273134,6.2425194)">
+      <rect
+         style="fill:#58a96f;fill-opacity:1;stroke:none;stroke-width:45.8667;stroke-opacity:0.727963"
+         id="rect13"
+         width="56.417503"
+         height="5"
+         x="3.175"
+         y="47.22654"
+         inkscape:label="type" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3px;line-height:2.38582px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-opacity:0.727963"
+         x="47.737366"
+         y="50.369038"
+         id="text16"
+         inkscape:label="type"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3px;line-height:2.38582px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#ffffff;fill-opacity:1;stroke-width:20"
+           x="47.737366"
+           y="50.369038">TYPE (5 mm)</tspan></text>
+    </g>
+    <g
+       id="g2"
+       inkscape:label="title"
+       transform="matrix(1.0354943,0,0,1,2.4273092,2.4977611)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:45.8668;stroke-opacity:0.727963"
+         id="rect11"
+         width="56.417503"
+         height="5"
+         x="3.175"
+         y="3.2265403"
+         inkscape:label="title" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3px;line-height:2.38582px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-opacity:0.727963"
+         x="15.987335"
+         y="6.4481797"
+         id="text17"
+         inkscape:label="title"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3px;line-height:2.38582px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke-width:20"
+           x="15.987335"
+           y="6.4481797">TITLE (5 mm)</tspan></text>
+    </g>
+    <g
+       id="g4"
+       inkscape:label="margin"
+       style="fill:#a11616;fill-opacity:1"
+       transform="translate(3.1106327,3.3641555)">
+      <g
+         id="margin"
+         style="fill:#a11616;fill-opacity:1"
+         inkscape:highlight-color="#ffffff"
+         transform="translate(0.06437085,-0.18708867)">
+        <rect
+           style="fill:#a11616;fill-opacity:1;stroke:none;stroke-width:80.4083;stroke-opacity:0.727963"
+           id="rect1"
+           width="2.54"
+           height="88.900002"
+           x="4.4408921e-16"
+           y="0" />
+        <rect
+           style="fill:#a11616;fill-opacity:1;stroke:none;stroke-width:80.4081;stroke-opacity:0.727963"
+           id="rect2"
+           width="2.54"
+           height="88.899994"
+           x="60.960003"
+           y="-4.4408921e-16" />
+        <rect
+           style="fill:#a11616;fill-opacity:1;stroke:none;stroke-width:26.5766;stroke-opacity:0.727963"
+           id="rect4"
+           width="63.5"
+           height="2.54"
+           x="1.9073486e-06"
+           y="0" />
+        <rect
+           style="fill:#a11616;fill-opacity:1;stroke:none;stroke-width:41.1724;stroke-opacity:0.727963"
+           id="rect5"
+           width="63.5"
+           height="6.0960002"
+           x="2.8610229e-06"
+           y="82.803993"
+           inkscape:label="rect5" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2px;line-height:1.59055px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-opacity:0.727963"
+         x="53.69836"
+         y="1.668407"
+         id="text5"
+         inkscape:label="margin"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2px;line-height:1.59055px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#ffffff;fill-opacity:1;stroke-width:20"
+           x="53.69836"
+           y="1.668407">MARGIN (2.54 mm)</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g5"
+     inkscape:label="Card">
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Background" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Artwork" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="TextBox" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Title" />
+  </g>
+  <rect
+     style="display:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect19"
+     width="64.376175"
+     height="88.900002"
+     x="2.736918"
+     y="3.1770668"
+     inkscape:label="Working Margin" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Print Margins"
+     style="display:inline"
+     transform="translate(-35.831539,-1.0579532)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.17542;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect20"
+       width="66.674576"
+       height="92.074577"
+       x="36.993332"
+       y="2.6477315"
+       inkscape:label="margin" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2px;line-height:1.59055px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-opacity:0.727963"
+       x="91.251778"
+       y="3.3021512"
+       id="text10-5"
+       inkscape:label="margin"><tspan
+         sodipodi:role="line"
+         id="tspan10-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2px;line-height:1.59055px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#ffffff;fill-opacity:1;stroke-width:20"
+         x="91.251778"
+         y="3.3021512">PRINT MARGIN (3.175 mm)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2px;line-height:1.59055px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-opacity:0.727963"
+       x="56.785992"
+       y="95.543427"
+       id="text2-5"
+       inkscape:label="margin"><tspan
+         sodipodi:role="line"
+         id="tspan2-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2px;line-height:1.59055px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#ffffff;fill-opacity:1;stroke-width:20"
+         x="56.785992"
+         y="95.543427">REMOVE BEFORE SENDING TO PRINT</tspan></text>
+  </g>
+</svg>
